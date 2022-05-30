@@ -19,6 +19,10 @@ body {
     border: 3px solid black;
 }
 
+.color-selector circle {
+    cursor: pointer;
+}
+
 .color-selector {
     margin-top: 30px;
 }
